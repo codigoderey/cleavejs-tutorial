@@ -1,0 +1,10 @@
+.container {
+	max-width: 600px;
+	margin: auto;
+}
+
+.input-block {
+	display: flex;
+	flex-direction: column;
+	margin: 2rem 0;
+}
